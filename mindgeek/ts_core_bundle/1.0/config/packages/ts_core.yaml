@@ -1,3 +1,2 @@
 ts_core:
     microservice_name: 'authorization_service'
-    microservice_alias: 'as'
