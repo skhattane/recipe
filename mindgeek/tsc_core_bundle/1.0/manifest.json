@@ -6,6 +6,6 @@
     "config/": "%CONFIG_DIR%/"
   },
   "env": {
-    "TSC_BUS_MESSAGING_SERVICE_DSN": "amqp://guest:guest@queue:5672/%2f/messages"
+    "TSC_BUS_MESSAGING_SERVICE_DSN": "amqp://guest:guest@tsc_bus_messaging:5672/%2f/messages"
   }
 }
