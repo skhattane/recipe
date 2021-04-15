@@ -1,0 +1,11 @@
+{
+  "bundles": {
+    "Mindgeek\\TrustAndSafety\\CoreBundle\\TSCCoreBundle" : ["all"]
+  },
+  "copy-from-recipe": {
+    "config/": "%CONFIG_DIR%/"
+  },
+  "env": {
+    "TSC_BUS_MESSAGING_SERVICE_DSN": "amqp://guest:guest@queue:5672/%2f/messages"
+  }
+}
