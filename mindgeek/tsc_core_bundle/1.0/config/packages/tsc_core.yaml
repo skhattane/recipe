@@ -1,2 +1,2 @@
-ts_core:
+tsc_core:
     microservice_name: 'authorization_service'
