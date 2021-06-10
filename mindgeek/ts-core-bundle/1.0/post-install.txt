@@ -1,0 +1,6 @@
+<bg=blue;fg=white>              </>
+<bg=blue;fg=white> What's next? </>
+<bg=blue;fg=white>              </>
+
+  * <fg=blue>Run</> your application:
+    1. Customize the ./config/packages/ts_core.yaml file with your specific values (ex: "microservice_name")
